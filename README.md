@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eastwickcz
-- 👀 I’m interested in smarthome, homeautomations, IoT, small bussines and home servers securly connected to intrnet
+- 👀 I’m interested in smarthome, homeautomations, IoT, small bussines and home servers securly connected to internet
 - 🌱 I’m currently learning python and new fuetures in my interests
 - 📫 You can reach me on lukas@hajek.tech
 
